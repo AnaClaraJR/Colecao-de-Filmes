@@ -47,7 +47,6 @@ Para rodar este projeto efetivamente no **Windows**, você precisará:
 > **Nota:** Caso tente executar no Navegador (Chrome), o app exibirá um erro informando que o SQLite local não é suportado nativamente na Web nesta configuração. Utilize sempre o **Windows (Desktop)** para teste completo.
 
 ## 7. Estrutura do Projeto
-O projeto foi totalmente padronizado em **Português Brasileiro**:
 - `lib/models/`: Modelos de dados (`UsuarioModel`, `FilmeModel`).
 - `lib/database/`: Lógica de banco de dados (`BancoDadosHelper`).
 - `lib/providers/`: Gerenciamento de estado (`AutenticacaoProvider`, `FilmeProvider`).
