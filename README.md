@@ -1,6 +1,6 @@
 # CineCatalog - Coleção de Filmes (Tema 09)
 
-## 1. Integrantes
+## 1. Integrante
 - Ana Clara de Jesus Régis
 
 ## 2. Tema Escolhido
@@ -29,7 +29,7 @@ Para rodar este projeto efetivamente no **Windows**, você precisará:
 
 1.  **Clonar o Repositório:**
     ```bash
-    git clone [URL_DO_REPOSITORIO]
+    git clone https://github.com/AnaClaraJR/Colecao-de-Filmes
     ```
 2.  **Entrar no Diretório:**
     ```bash
